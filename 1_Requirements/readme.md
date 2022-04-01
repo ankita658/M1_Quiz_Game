@@ -9,7 +9,6 @@ quiz is a simple application using c programming language.The quiz is based on c
 
 ## Features
 <br>
-
 The Key features of quiz are:
 <br>
 1. To understand the basics of the c programming
