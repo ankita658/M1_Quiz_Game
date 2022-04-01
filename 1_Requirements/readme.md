@@ -68,7 +68,7 @@ The user can take the quiz by entering his name
 | LR01 | If the user presses 'S', The game will start. | HR01 |
 | LR02 | If the user is playing he need to enter his name to proceed further in the game. | HR01 |
 | LR03 | If the user presses 'v', he'll be able to view the highest score gained. | HR02 |
-| LR04 | If the user is playing game and game is ended then user need to select Y/N . | HR02 |
+| LR04 | If the user is playing game and game is ended then user need to select Y/N to restart the game . | HR02 |
 | LR04 | If the user presses 'Y' game restart . | HR01 |
 | LR04 | If the user presses 'N' game will end . | HR01 |
 | LR05 | If the user presses 'H', it'll give more information about the game. | HR03 |
