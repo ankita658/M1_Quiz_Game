@@ -12,11 +12,13 @@ quiz is a simple application using c programming language.The quiz is based on c
 
 The Key features of quiz are:
 <br>
-1.Participate in quiz
+1. To understand the basics of the c programming
 <br>
-2.View the result
+1. Participate in quiz
 <br>
-3.Exit
+2. View the result
+<br>
+3. Exit
 
 ## Language & IDE
 <br>
