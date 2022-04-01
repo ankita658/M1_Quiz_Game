@@ -33,28 +33,28 @@ The Key features of quiz are:
 4W's and 1H
 --------------------------------------------------------------------------------
 
-Who
+#  Who
 ---------------------------------------------------------------------------------
 Any user who are intersted can take the quiz and enjoy the quiz.
 
-What
+#  What
 ---------------------------------------------------------------------------------
 The project is main aim is to anyone participate in the quiz. 
 
-When
+#  When
 ---------------------------------------------------------------------------------
 Students are actively participate because the quiz is based on c language.
 
-Why
+#  Why
 ---------------------------------------------------------------------------------
 The project is mainly about students to get more knowledge on c.
 
-How
+#  How
 --------------------------------------------------------------------------------
 The user can take the quiz by entering his name 
 
 
-# Detail requirements
+#  Detail requirements
 
   ## High Level Requirements
 | ID |Description| 
