@@ -7,18 +7,19 @@
 #include<direct.h>
 #include"main.h"
 
-
-void score_display()
+void type_score(float points,char plnm[20])
  {
- char name[20];
- float s;
+ float sc;
+ char nm[20];
  FILE *f;
  system("cls");
  f=fopen("points.txt","r");
- fscanf(f,"%s%f",&name,&s);
- printf("\n\n\t\t ");
- printf("\n\n\t\t %s has secured the Highest points %.2f",name,s);
- printf("\n\n\t\t ");
- fclose(f);
- getch();
+ fscanf(f,"%s%f",&nm,&sc);
+ if (points>=sc)
+   { sc=points;
+     fclose(f);
+     f=fopen("points.txt","w");
+     fprintf(f,"%s\n%.2f",plnm,sc);
+     fclose(f);
+   }
  }
