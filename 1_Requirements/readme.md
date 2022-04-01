@@ -53,7 +53,6 @@ The project is mainly about students to get more knowledge on c.
 --------------------------------------------------------------------------------
 The user can take the quiz by entering his name 
 
-
 #  Detail requirements
 
   ## High Level Requirements
