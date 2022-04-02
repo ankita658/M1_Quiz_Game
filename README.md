@@ -5,4 +5,6 @@ Codacy analysis
 
 Codiga analysis
 
-[![Quality](https://api.codiga.io/project/32440/status/svg)]
+[![Code Quality Grade](https://api.codiga.io/project/32440/status/svg)]
+
+![Code Quality Score](https://api.codiga.io/project/32440/score/svg)
