@@ -12,7 +12,8 @@ int main()
 
      int sumq,sumr;
      int r,i;
-     int pa;int num_ques[6];int w;
+     int num_ques[6];
+     int w;
      float points;
      char choice;
      char nameofplayer[20];
@@ -53,12 +54,14 @@ int main()
      home:
      system("cls");
      starttime=time(NULL);
+	    
      sumq=sumr=0;                    
      i=1;
      start:
      srand ( time(NULL) );
      r=rand()%23+1;
      num_ques[i]=r;
+	    
      for (w=0;w<i;w++)
  if (num_ques[w]==r) goto start;
 
@@ -92,7 +95,6 @@ int main()
   else
          {printf("\n\nWrong!!! The correct answer is D.int $main;");break;}
 
-
   case 4:
   printf("\n\n\nAll keywords in C are in ____________?");    
   printf("\n\nA.LowerCase letters\tB.UpperCase letters\n\nC.CamelCase letters\tD.None of the mentioned\n\n");
@@ -101,7 +103,6 @@ int main()
    {printf("\n\nCorrect!!!");sumr++; break;}
   else
          {printf("\n\nWrong!!! The correct answer is A.LowerCase letters");break;}
-
 
   case 5:
   printf("\n\n\nWhat is #include <stdio.h>?");       
@@ -121,7 +122,6 @@ int main()
   else
          {printf("\n\nWrong!!! The correct answer is B.A.#");break;}
 
-
   case 7:
   printf("\n\n\n The standard header _______ is used for variable list arguments (…) in C.");          
   printf("\n\nA.<stdio.h >\tB.<stdlib.h>\n\nC.<math.h>\tD.<stdarg.h>\n\n");
@@ -130,7 +130,6 @@ int main()
    {printf("\n\nCorrect!!!");sumr++; break;}
   else
          {printf("\n\nWrong!!! The correct answer is D.<stdarg.h>");break;}
-
 
   case 8:
   printf("\n\n\nscanf() is a predefined function in______header file."); 
@@ -141,7 +140,6 @@ int main()
   else
          {printf("\n\nWrong!!! The correct answer is C.stdio.h");break;}
 
-
   case 9:
   printf("\n\n\nWhat is the capital of Denmark?");
   printf("\n\nA.Copenhagen\tB.Helsinki\n\nC.Rome\t\tD.Madrid\n\n");
@@ -151,7 +149,6 @@ int main()
   else
          {printf("\n\nWrong!!! The correct answer is A.Copenhagen");break;}
 
-
   case 10:
   printf("\n\n\nIn C language, FILE is of which data type?");     
   printf("\n\nA.int\tB.char *\n\nC.struct\tD.None \n\n");
@@ -160,7 +157,6 @@ int main()
    {printf("\n\nCorrect!!!");sumr++; break;}
   else
          {printf("\n\nWrong!!! The correct answer is C.struct");break;}
-
 
   case 11:
   printf("\n\n\nDirectives are translated by the");              
