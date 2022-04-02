@@ -6,4 +6,4 @@ Codacy analysis
 Codiga analysis
 https://app.codiga.io/analysis/result/32440/1366712/source-tree
 
-![Quality](https://app.codiga.io/analysis/result/32440/1366920/source-tree)
+[![Quality](https://api.codiga.io/project/32440/status/svg)]
