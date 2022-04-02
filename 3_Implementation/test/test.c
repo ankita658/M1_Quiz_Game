@@ -3,14 +3,14 @@ void main()
 {
     printf("\n*******Welcome to Quiz Game*******\n");
     printf("Enter your name:");
-    gets(name);
+    get_s(name);
     menu();
 }
 
 void writescore()
 {
      printf("points are");
-     gets(writescore);
+     get_s(writescore);
      return (writescore);
 }
 -------------------------------------------------------------------------------------------------
@@ -19,7 +19,7 @@ void writescore()
 void score_display()
 {
      printf("recured score is");
-     gets(score_display);
+     get_s(score_display);
      return (score_display);
 }
 
@@ -29,6 +29,6 @@ void score_display()
 void help()
 {
      printf("help is");
-     gets(help);
+     get_s(help);
      return (help);
 }
