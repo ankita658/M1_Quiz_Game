@@ -1,0 +1,17 @@
+name: cppcheck-action
+on: 
+  push:
+      branches: [main]
+
+jobs:
+
+  make:
+  
+    name: cppcheck
+    runs-on:windows-latest
+    
+    steps:
+    
+      - uses: actions/checkout@v2
+      - name: make
+        run: cppcheck 3_Implementation
