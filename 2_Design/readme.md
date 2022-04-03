@@ -1,4 +1,5 @@
-## Architecture
+# Design
+
 ### High Level Design
 
 ## activity diagram
