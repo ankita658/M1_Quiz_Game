@@ -25,8 +25,8 @@
 # Here are some Outout of my project
 
 ## Menu page
+![Screenshot (24)](https://user-images.githubusercontent.com/81344818/161439469-6e0829d7-dcb4-4b47-b684-b53ee17e76b8.png)
 
-![Screenshot (16)](https://user-images.githubusercontent.com/81344818/161256832-3509febf-e782-4902-b2d7-65767b83a37c.png)
 
 ## asking for the user name
 
