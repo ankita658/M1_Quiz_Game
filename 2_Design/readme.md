@@ -3,7 +3,7 @@
 ### High Level Design
 
 ## activity diagram
-![activity_diagram](https://user-images.githubusercontent.com/101923433/161079856-def0c5dc-19f3-4843-9419-1c45c1868edd.jpg)
+![activity_diagram](https://user-images.githubusercontent.com/81344818/161424367-9f6a0374-80b0-4e16-a1de-cf492685748f.png)
 
 ### Low Level Design
 
