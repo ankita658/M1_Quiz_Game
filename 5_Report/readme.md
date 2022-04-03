@@ -49,4 +49,3 @@ The Key features of quiz are:
 | LR04 | If the user presses 'N' game will end . | HR01 |
 | LR05 | If the user presses 'H', it'll give more information about the game. | HR03 |
 | LR05 | If the user presses 'Q', it'll exit the game. | HR03 |
-
