@@ -35,3 +35,6 @@
 ## Questions asked to the user
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/81344818/161257068-c924fa4f-94c7-42db-a4b2-ef5f37123285.png)
+
+## User asking for the help
+![Screenshot (23)](https://user-images.githubusercontent.com/81344818/161435677-085a116d-fc9f-4451-9254-3914f6c9f05f.png)
