@@ -35,4 +35,3 @@
 ##  Questions asked to the user
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/81344818/161257068-c924fa4f-94c7-42db-a4b2-ef5f37123285.png)
-
